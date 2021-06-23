@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 569a
 *.DS_Store
-benchmark/wiki80
+benchmark
 pretrain
