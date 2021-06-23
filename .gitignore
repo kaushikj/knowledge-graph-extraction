@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 569a
 *.DS_Store
-benchmark
-pretrain
+
+pretrain/bert-base-uncased
+benchmark/wiki80
