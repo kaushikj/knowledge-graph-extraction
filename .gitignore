@@ -4,3 +4,4 @@
 
 pretrain/bert-base-uncased
 benchmark/wiki80
+__pycache__
